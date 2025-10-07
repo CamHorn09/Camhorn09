@@ -1,4 +1,4 @@
-##Hi, I'm camron👋
+Hi, I'm camron👋
 **PRCTC Junior — Cybersecurity & Networking**
 
 - 📚 Currently studying: A+, Network+, Linux basics, Packet Tracer labs, Windows & Linux hardening
